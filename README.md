@@ -83,7 +83,7 @@ Assim, as informações continuam disponíveis mesmo depois que o programa é fe
 ### 1. Clone o repositório
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
+git clone https://github.com/SidneyXavierFilho1/Gerenciador-de-Estudos.git
 ```
 
 ### 2. Entre na pasta do projeto
